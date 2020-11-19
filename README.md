@@ -15,7 +15,7 @@ Use the rules [here](https://bicyclecards.com/how-to-play/war/)
 * Create a RESTful service with two endpoints:
 
 	* An endpoint to start a game. Two simulated players will play out the game.
-	* An endpoint to get high scores stored in a database.
+	* An endpoint to get lifetime wins for each player stored in a database.
 
 * You should include some basic tests along with the application code.
 
