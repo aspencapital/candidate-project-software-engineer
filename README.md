@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to Aspen Capital's Senior Software Engineer challenge. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be new, functional pieces within the application or even relevant design artifacts.
+Welcome to Aspen Capital's Software Engineer challenge. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be new, functional pieces within the application or even relevant design artifacts.
 
 ## Background
 
